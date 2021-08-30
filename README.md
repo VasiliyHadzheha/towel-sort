@@ -3,7 +3,7 @@
 ## Task
 Your task is to implement the so-called 'towel sort' algorithm.
 
-`towelSort` function should expect [matrix](https://en.wikipedia.org/wiki/Array_data_structure#Multidimensional_arrays) of any shape for example:
+`towelSort` function should expect [array](https://en.wikipedia.org/wiki/Array_data_structure#Multidimensional_arrays) of any shape for example:
 
 ```js
 [
@@ -13,7 +13,7 @@ Your task is to implement the so-called 'towel sort' algorithm.
 ]
 ```
 
-Following matrix should be 'sorted' to:
+Following array should be 'sorted' to:
 ```
  [1, 2, 3, 6, 5, 4, 7, 8, 9 ]
 ```
